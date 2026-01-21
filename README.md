@@ -44,4 +44,6 @@ Setelah aplikasi Puding Kuy berhasil dibuka, pengguna dapat menjalankan dan meng
 Dengan adanya fitur tersebut, aplikasi ini memudahkan pengguna dalam mencatat, mengelola, dan memantau pemesanan puding secara sistematis.
 
 ## Tujuan Pembuatan
-Aplikasi ini dibuat sebagai tugas pembelajaran untuk menerapkan pemrograman Python, GUI, dan database dalam satu aplikasi desktop.
+Saya membuat aplikasi pencatatan pemesanan puding ini dengan tujuan untuk membantu bibi saya dalam mengelola usaha puding yang beliau jalani. Sebelumnya, semua pesanan dicatat secara manual menggunakan buku, sehingga sering terjadi kesulitan saat mencari data pesanan, menghitung jumlah pesanan, maupun mengetahui total pendapatan secara keseluruhan.
+
+Melalui aplikasi ini, saya ingin mempermudah proses pencatatan pemesanan agar menjadi lebih rapi, cepat, dan terstruktur. Setiap pesanan dapat langsung dimasukkan ke dalam aplikasi dengan informasi lengkap seperti tanggal pemesanan, nama pelanggan, variasi puding, jumlah pesanan, metode pemesanan (take away atau pesan antar), serta status pembayaran.
